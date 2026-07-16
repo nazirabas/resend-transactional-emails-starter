@@ -4,6 +4,8 @@ Next.js 14 + Resend + Zod, wired for a real-world contact form flow: validation,
 
 ![Preview](./public/screenshot.png)
 
+**Live demo:** [resend-transactional-emails-starter-od6rffjvv.vercel.app](https://resend-transactional-emails-starter-od6rffjvv.vercel.app)
+
 ## What's included
 
 - **Next.js 14** App Router with server actions and `useFormState`
